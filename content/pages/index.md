@@ -49,7 +49,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Album Cover Mediterranean Fishermen Feb 17 2025.webp
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
