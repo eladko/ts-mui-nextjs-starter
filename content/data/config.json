@@ -1,49 +1,61 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/baby-sleep-favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "נטלי - יועצת שינה",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "דף הבית",
                 "url": "/",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
+                "label": "שירותים",
+                "url": "/services",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "המלצות",
+                "url": "/testimonials",
+                "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "צרו קשר",
+                "url": "/#contact",
                 "underline": "hover"
             }
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "© כל הזכויות שמורות לנטלי - ייעוץ שינה 2024.",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "דף הבית",
                 "underline": "hover",
                 "url": "/"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "שירותים",
                 "underline": "hover",
-                "url": "/about"
+                "url": "/services"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "המלצות",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "/testimonials"
+            },
+            {
+                "type": "Link",
+                "label": "מדיניות פרטיות",
+                "underline": "hover",
+                "url": "/privacy"
             }
         ]
     }
